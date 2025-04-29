@@ -1,0 +1,3 @@
+Registre no AVA suas percepções em relação ao código desenvolvido e quais foram os principais desafios encontrados durante o desenvolvimento dessas funcionalidades:
+
+Compreender como fazer a leitura do código e oque eu teria de alterar.
